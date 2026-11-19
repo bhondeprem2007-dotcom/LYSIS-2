@@ -1,0 +1,6 @@
+LYSIS Research Desk 4.0 automated validation
+Command: python -m unittest discover -s tests
+Result: 63 tests passed, 0 failures.
+JavaScript syntax: node --check passed for inline application script.
+Python syntax: py_compile passed for app.py and build_embeddings.py.
+Manual Windows browser acceptance: pending user run.

@@ -1,0 +1,121 @@
+{
+  "evaluation_type": "small manually labelled smoke set; not a formal benchmark",
+  "queries": 5,
+  "mean_precision_at_5": 0.64,
+  "hit_rate_at_5": 1.0,
+  "mean_reciprocal_rank_at_5": 1.0,
+  "cases": [
+    {
+      "query": "Pseudomonas aeruginosa phage antibiotic cocktails",
+      "top_5": [
+        "P008",
+        "P003",
+        "P015",
+        "P011",
+        "P019"
+      ],
+      "relevant_ids": [
+        "P003",
+        "P008",
+        "P009",
+        "P010",
+        "P011",
+        "P012",
+        "P014",
+        "P015",
+        "P016",
+        "P017",
+        "P018",
+        "P019"
+      ],
+      "hits_at_5": 5,
+      "precision_at_5": 1.0,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "Pseudomonas aeruginosa biofilm phage resistance trade-offs",
+      "top_5": [
+        "P009",
+        "P015",
+        "P008",
+        "P013",
+        "P019"
+      ],
+      "relevant_ids": [
+        "P008",
+        "P009",
+        "P010",
+        "P011",
+        "P012",
+        "P013",
+        "P016",
+        "P017",
+        "P019"
+      ],
+      "hits_at_5": 4,
+      "precision_at_5": 0.8,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "personalized phage therapy clinical outcomes consecutive cases",
+      "top_5": [
+        "P002",
+        "P001",
+        "P015",
+        "P018",
+        "P008"
+      ],
+      "relevant_ids": [
+        "P001",
+        "P002",
+        "P004",
+        "P005"
+      ],
+      "hits_at_5": 2,
+      "precision_at_5": 0.4,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "MedCPT biomedical information retrieval PubMed transformer",
+      "top_5": [
+        "P007",
+        "P006",
+        "P008",
+        "P014",
+        "P005"
+      ],
+      "relevant_ids": [
+        "P006",
+        "P007"
+      ],
+      "hits_at_5": 2,
+      "precision_at_5": 0.4,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    },
+    {
+      "query": "in vitro phage antibiotic synergy clinical translation Pseudomonas",
+      "top_5": [
+        "P018",
+        "P015",
+        "P008",
+        "P003",
+        "P014"
+      ],
+      "relevant_ids": [
+        "P008",
+        "P015",
+        "P016",
+        "P017",
+        "P018"
+      ],
+      "hits_at_5": 3,
+      "precision_at_5": 0.6,
+      "hit_at_5": true,
+      "reciprocal_rank": 1.0
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+LYSIS 4.0: 63 automated tests pass in the build environment. See VALIDATION_REPORT.md. New six-frame translation and IUPAC motif scan features are descriptive sequence utilities only. This software is not a clinical tool and has not undergone laboratory or clinical validation. The 19-record corpus is an educational starter set, not the full project catalogue.

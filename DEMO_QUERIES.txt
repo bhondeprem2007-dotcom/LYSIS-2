@@ -1,0 +1,13 @@
+Suggested live demonstration queries (19-record starter corpus):
+
+1) personalized phage therapy and antibiotic resistance
+2) Pseudomonas aeruginosa phage antibiotic cocktails
+3) Pseudomonas aeruginosa biofilm phage resistance trade-offs
+4) extracellular matrix phage competition Pseudomonas biofilm
+5) in vitro clinical translation phage antibiotic synergy Pseudomonas
+
+Expected demonstration:
+- The system ranks DOI-linked records from the included 19-record starter corpus.
+- Result scores combine 0.65 LSA similarity and 0.35 query-term coverage.
+- Search results include short source-derived research notes; inspect original publications.
+- Scores are ranking values, not probability/confidence/effectiveness estimates.

@@ -1,0 +1,12 @@
+{
+  "version": "4.0-sprint",
+  "algorithm": "TF-IDF + truncated SVD (LSA)",
+  "dense_weight": 0.65,
+  "lexical_weight": 0.35,
+  "lexical_method": "query-term coverage (not BM25)",
+  "requested_dimension": 128,
+  "actual_dimension": 18,
+  "record_count": 19,
+  "corpus_sha256": "245d9bf1753b4862336dfae04204990e584398e0e0f1d2d733028072be478718",
+  "corpus_filename": "rag_corpus.jsonl"
+}
